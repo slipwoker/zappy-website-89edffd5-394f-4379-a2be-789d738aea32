@@ -1,0 +1,54 @@
+# VICHUGEAI — Generative Engine Optimization Map
+
+> A professional AI agency that helps businesses and individuals grow and expand by leveraging artificial intelligence. The agency offers a comprehensive suite of services including AI consulting, business automation development, AI-powered marketing campaigns, lead generation systems, and creative AI services such as image design and brand video production. The brand positions itself as a growth partner that delivers fast, available, and smart solutions for businesses ready to evolve.
+
+---
+
+## Pages
+
+### בית
+https://vichugeai-89edffd5.zappy5.app
+A professional AI agency that helps businesses and individuals grow and expand by leveraging artificial intelligence. The agency offers a comprehensive suite of
+
+## Legal & Policy
+
+### Privacy Policy
+https://vichugeai-89edffd5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://vichugeai-89edffd5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://vichugeai-89edffd5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VICHUGEAI
+A professional AI agency that helps businesses and individuals grow and expand by leveraging artificial intelligence. The agency offers a comprehensive suite of services including AI consulting, business automation development, AI-powered marketing campaigns, lead generation systems, and creative AI services such as image design and brand video production. The brand positions itself as a growth partner that delivers fast, available, and smart solutions for businesses ready to evolve.
+
+## Services/Products
+- ייעוץ והטמעת AI לעסקים
+- פיתוח אוטומציות מקצועיות
+- פתרונות שירות לקוחות מהירים
+- איסוף לידים לעסקים
+- שיווק וניהול קמפיינים באמצעות AI
+- עיצוב ויצירת תמונות
+- עיצוב ויצירת סרטוני תדמית
+
+## Target Audience
+עסקים ופרטיים שמעוניינים לצמוח באמצעות AI
+
+## Industry
+בינה מלאכותית ושיווק דיגיטלי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://vichugeai-89edffd5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://vichugeai-89edffd5.zappy5.app/robots.txt
